@@ -1,0 +1,9 @@
+>	select your folder, right click git bash from here
+>	git init  	to create a .git/
+>	touch aaa.txt 	to create aaa.txt
+>	git status 	to have the list of file in the fordel
+>	git add *
+>	git commit -m "1st commit"
+>	git branch cs50/web/2018/x/projects/0	to create a new branch
+>	git push origin cs50/web/2018/x/projects/1
+
