@@ -1,21 +1,21 @@
 #Project 0
-**Objectives**
+#Objectives**
 Become more comfortable with HTML and CSS to design and style webpages.
 Learn to use SCSS to write more complex stylesheets for your webpages.
 
-**Organization**
+#Organization
 Several Webpages promoting a SMART ALLOCATION PLATEFORM as an alternative to the expensive and not retirement compatible current offer
-##Current imbroglio
+#Current imbroglio
 - high savings and high needs for retirement
 - millenials need a new offer
 - reminder of safe investment principles 
 - current offer is far from meeting these requirements
 - pages: imbroglio.html / millenials.html / BestPractices.html  
-##Only a plateform with labelled solutions can meet these unsatisfied needs
+#Only a plateform with labelled solutions can meet these unsatisfied needs
 - description of 2 long term / all-weather retirement allocation process
 - page: OurOffer.html
 
-**Requirements**
+#Requirements
 
 *Your website must contain at least four different .html pages, and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
 ok
